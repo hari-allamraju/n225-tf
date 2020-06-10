@@ -1,0 +1,7 @@
+tensorflow
+pandas
+jupyterlab
+seaborn
+sklearn
+pydot
+graphviz
