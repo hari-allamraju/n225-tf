@@ -5,3 +5,4 @@ seaborn
 sklearn
 pydot
 graphviz
+numpy==1.16.1
